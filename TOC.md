@@ -1,6 +1,8 @@
 
-**Desarrollo De Aplicaciones Web Con Java**
-**CF01090717**
+# Desarrollo De Aplicaciones Web Con Java
+
+## CF01090717
+
 1. **INTRODUCCIÓN**
    1. Presentación
    2. Objetivo
@@ -28,10 +30,10 @@
    5. Plantillas
    6. Convertidores / Validadores
    7. Eventos
-6. **M: POJO & EJB**
+6. **M | POJO & EJB**
    1. Descripción
    2. POJO
-   3. EJBs 
+   3. EJBs
    4. JPA
 7. **CARACTERÍSTICAS AVANZADAS**
    1. Descripción
