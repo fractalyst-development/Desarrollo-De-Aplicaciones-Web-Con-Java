@@ -13,7 +13,7 @@
     2. ¿Qué tipo de destino se utiliza?
 2. ¿Utiliza mensajería en su negocio?, ¿para qué?
 
-## EJB | JPA**
+## EJB | JPA
 
 1. OPCIONAL
 Realizar una aplicación web para el Alta, Baja, Cambios y Consultas de una tabla de al menos 3 campos
