@@ -1,4 +1,6 @@
-**VISTA| JSF**
+# VISTA
+
+## JSF | Facelet
 
 1. Construya y ejecute un componente JSF con el código de la página anterior (hola.xhtml) 
 
@@ -16,9 +18,7 @@
          </html>
          ```
 
-
-
-**VISTA | JSF**
+## JSF | Managed Bean
 
 1. Construya y ejecute el ‘**AdivinadorBean**’ mostrado en las diapositivas
 
@@ -103,33 +103,31 @@
          </web-app>
          ```
 
-
-
-**VISTA | JSF | COMPONENTES UI**
+## JSF | COMPONENTES UI
 
 1. Realizar la interfaz gráfica con *facelets* para el Alta, Baja, Cambios y Consultas de una tabla de al menos 3 campos
 
-**VISTA | JSF | MANAGED BEAN**
+## JSF | MANAGED BEAN
 
 1. Adicionar el *Managed Bean* a la interfaz gráfica realizada en la actividad anterior
 
-**VISTA | JSF | MANAGED BEAN | FLASH**
+## JSF | MANAGED BEAN | FLASH
 
 1. Ejemplifique la utilización del alcance de memoria *flash*
    1. Cree un formulario que direccione a otra vista
    2. La vista que recibe el flujo debe mostrar la información leída desde la memoria *flash*
 
-**VISTA | JSF | PLANTILLAS**
+## JSF | PLANTILLAS
 
 1. OPCIONAL
    Modifique alguna de las aplicaciones desarrolladas anteriormente adicionando plantillas para gestionar su presentación
 
-**VISTA | JSF | CONVERTIDORES/VALIDADORES**
+## JSF | CONVERTIDORES/VALIDADORES
 
 1. Modifique alguna de las aplicaciones desarrolladas anteriormente adicionando convertidores y/o validadores
    1. Incluya la capacidad de mostrar mensajes de error
 
-**VISTA | JSF | EVENTOS**
+## JSF | EVENTOS
 
 1. Cree un ejemplo que muestre la gestión de eventos
    1. Mediante un método en un *bean*
