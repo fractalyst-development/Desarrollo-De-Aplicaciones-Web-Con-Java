@@ -1,4 +1,6 @@
-**En el contexto de aplicaciones  Java EE** 
+# Java EE
+
+## En el contexto de aplicaciones  Java EE
 
 1. ¿De qué componentes puede estar compuesta una aplicación Java EE?
 2. ¿Qué es un perﬁl de aplicación Java EE?
