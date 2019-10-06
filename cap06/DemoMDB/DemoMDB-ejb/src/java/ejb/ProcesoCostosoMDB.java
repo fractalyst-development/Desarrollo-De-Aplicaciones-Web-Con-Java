@@ -29,7 +29,7 @@ public class ProcesoCostosoMDB implements MessageListener {
         
         try {
             System.out.println("INICIO");
-            Thread.sleep(5000);
+            Thread.sleep(15000);
             System.err.println("FIN");
         } catch (InterruptedException ex) {
             Logger.getLogger(ProcesoCostosoMDB.class.getName()).log(Level.SEVERE, null, ex);

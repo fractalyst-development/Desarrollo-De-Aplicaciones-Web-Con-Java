@@ -31,10 +31,6 @@ public class FachadaSB implements FachadaSBLocal {
     @Resource(mappedName = "jms/demoMDBFactory")
     private ConnectionFactory demoMDBFactory;
 
-    // Add business logic below. (Right-click in editor and choose
-    // "Insert Code > Add Business Method")
-    
-
     private Message createJMSMessageForjmsDemoMDB(Session session, Object messageData) throws JMSException {
         // TODO create and populate message to send
         TextMessage tm = session.createTextMessage();
